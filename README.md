@@ -2,7 +2,7 @@
 
 ### AI Engineer · AI-enabled Developer
 
-I build practical products with AI, with a focus on Python, agentic AI and retrieval-augmented generation (RAG). I enjoy connecting useful AI capabilities with clear interfaces and thoughtful product engineering.
+I build practical AI-enabled products, with a focus on Python, agentic workflows, retrieval-augmented generation (RAG), and clear user experiences.
 
 Based in **Coimbatore, India** · [Connect on LinkedIn](https://www.linkedin.com/in/krishna-kr21/)
 
@@ -15,13 +15,13 @@ Based in **Coimbatore, India** · [Connect on LinkedIn](https://www.linkedin.com
 
 ## Selected work
 
-| Project | Engineering focus | Status |
+| Project | Engineering focus | Try it |
 | --- | --- | --- |
-| **Clario / Interview AI** | Context-aware assistance, local speech recognition and shared desktop/web experiences. | Private · in development |
-| **Android playback engineering** | Playback state, background audio, media controls and lifecycle recovery. | Public showcase being prepared |
-| **Solquity** | Offline-first personal finance, on-device processing and understandable records. | Private · personal beta |
+| **[Context Meeting Assistant](https://github.com/KRISHNAKR2113/context-meeting-assistant)** | Python reference pipeline for transcripts, reviewed context retrieval, decisions and action items. | [Source](https://github.com/KRISHNAKR2113/context-meeting-assistant) |
+| **[E.D.I.T.H Playback Lab](https://github.com/KRISHNAKR2113/edith-playback-demo)** | Interactive playback state, queues, recovery and safe procedural media. | [Live demo](https://krishnakr2113.github.io/edith-playback-demo/) |
+| **[Solquity Money Tracker](https://github.com/KRISHNAKR2113/solquity-money-tracker)** | Local-first money tracking with synthetic data and transparent calculations. | [Live demo](https://krishnakr2113.github.io/solquity-money-tracker/) |
 
-These projects are at different stages of development. Public case studies will distinguish implemented features, measured results and remaining work.
+Each public showcase is independently documented, licensed and built with synthetic or original assets. The repositories state their limits and keep personal product data private.
 
 ## How I approach the work
 
