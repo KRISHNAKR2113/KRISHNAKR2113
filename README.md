@@ -1,5 +1,4 @@
 <div align="center">
-
 # Krishna KR
 
 ### AI Engineer · Product Builder · AI-enabled Developer
