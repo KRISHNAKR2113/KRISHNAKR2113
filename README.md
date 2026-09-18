@@ -75,7 +75,7 @@ Context → Retrieval → Reasoning → Useful product action
 
 ### TEMI enterprise AI experience
 
-How I helped turn an underused robot platform into an integrated enterprise AI experience, stabilized the runtime across product and service boundaries, and contributed to a two-week iteration reported publicly as supporting nearly 3× the previous load.
+How I helped turn an underused robot platform into an integrated enterprise AI experience. The first executive-ready demo was built during a focused two-week sprint. Work continued after that milestone with performance improvements, faster retrieval, facial recognition, personalized interactions, expanded capabilities, and stronger runtime recovery and operational readiness.
 
 [Read the sanitized case study →](case-studies/temi-enterprise-ai.md)
 
