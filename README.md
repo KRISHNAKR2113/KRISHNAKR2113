@@ -71,6 +71,16 @@ Context → Retrieval → Reasoning → Useful product action
 | **AI-enabled products** | Turning models into coherent, responsive experiences rather than isolated demos |
 | **Privacy-minded systems** | Local processing, explicit sharing and realistic data-lifecycle boundaries |
 
+## Selected case study
+
+### TEMI enterprise AI experience
+
+How I helped turn an underused robot platform into an integrated enterprise AI experience, stabilized the runtime across product and service boundaries, and contributed to a two-week iteration reported publicly as supporting nearly 3× the previous load.
+
+[Read the sanitized case study →](case-studies/temi-enterprise-ai.md)
+
+The implementation, organizational knowledge, infrastructure details and operating data remain private. The case study focuses on my contribution, the architecture decisions, the public result and what I learned.
+
 ## Working toolkit
 
 <p>
